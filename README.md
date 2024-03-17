@@ -15,8 +15,7 @@ Technologies Used:
 HTML: Used for structuring the web pages.
 CSS: Used for styling and layout design.
 JavaScript: Used for interactivity and dynamic content.
-How to Use:
-Clone the Repository: Clone the Omnifood Meal Selector repository to your local machine using the following command
+
 Open the Website: Navigate to the project directory and open the index.html file in your preferred web browser.
 
 Select Meals: Browse through the meal options for breakfast, lunch, and dinner. Click on each meal to view detailed information.
@@ -27,6 +26,7 @@ Enjoy: Once you've selected your meals for the day, enjoy a delicious and satisf
 
 Credits:
 Developers: Sneha Mittal
+
 Feedback and Support:
 We welcome your feedback and suggestions for improving Omnifood Meal Selector. If you encounter any issues or have any questions, please don't hesitate to contact us at snehamittal.sm22@gmail.com.
 

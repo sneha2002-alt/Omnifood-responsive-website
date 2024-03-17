@@ -1,3 +1,4 @@
+## Omnifood
 Welcome to Omnifood Meal Selector! This project is a responsive website designed to help users select meals for three times of the day. Whether you're looking for a healthy breakfast, a satisfying lunch, or a delicious dinner, Omnifood has you covered.
 
 Features:
